@@ -28,8 +28,8 @@ pip (Python package installer)
 1. Clone the Repository (or Save the File)
 If you have the code as a single file, save it as app.py. If this were a repository, you would clone it:
 
-# Assuming your code is in a file named app.py
-# No cloning needed, just save the app.py file.
+# Assuming your code is in a file named flask.py
+# No cloning needed, just save the flask.py file.
 
 2. Create a Virtual Environment (Recommended)
 It's good practice to use a virtual environment to manage dependencies.
@@ -57,11 +57,11 @@ Navigate to the directory where your app.py file is located.
 
 Run the Flask application:
 
-python app.py
+python flask.py
 
 You should see output similar to this:
 
- * Serving Flask app 'app'
+ * Serving Flask app 'flask'
  * Debug mode: on
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
  * Running on http://127.0.0.1:5000
