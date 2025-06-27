@@ -26,7 +26,7 @@ Python 3.6+ installed on your system.
 pip (Python package installer)
 
 1. Clone the Repository (or Save the File)
-If you have the code as a single file, save it as app.py. If this were a repository, you would clone it:
+If you have the code as a single file, save it as flask.py. If this were a repository, you would clone it:
 
 # Assuming your code is in a file named flask.py
 # No cloning needed, just save the flask.py file.
